@@ -44,7 +44,6 @@ public class User {
 	
 	@Email // must contain @ and .something
 	private String email;
-
 	
 
 
